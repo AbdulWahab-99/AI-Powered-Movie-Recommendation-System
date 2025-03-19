@@ -7,3 +7,4 @@ keras
 requests
 langchain
 google-generativeai
+langchain-google-genai
