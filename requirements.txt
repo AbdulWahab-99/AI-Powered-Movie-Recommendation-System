@@ -4,7 +4,6 @@ numpy
 scikit-learn
 tensorflow
 keras
-sqlite3
 requests
 langchain
 google-generativeai
